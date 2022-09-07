@@ -1,0 +1,78 @@
+To which gender identity do you most identify?,What year are you?,Are you a transfer student?,What is your current GPA? ,What was your GPA in Fall 2021?,What was your GPA in Spring 2021?,What is your current housing situation?,What was your housing situation in Fall 2021?,What is your learning style?,"On average, how many hours are you on campus per day?","Visual materials (graphs, tables, pictures, etc.) help with my learning.","Hands-on activities (worksheets, in-person labs, class assignments) help with my learning.","Verbal activities (discussions, reading aloud, etc.) help with my learning.",Social interactions are better in-person vs. online.,"Even though a hybrid option is available, I try to attend in-person classes whenever they are offered.",I feel more productive when attending class in-person vs. online.,I grasp course material better when attending class in-person vs. online.,"Overall, I prefer in-person vs. online."
+Man,Fourth Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Kinesthetic (hands-on),24,5,5,5,5,4,5,4,4
+Man,Third Year,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,24,5,5,3,1,5,1,1,1
+Man,Fourth Year,No,3.50 to 4.00,3.00 to 3.49,3.00 to 3.49,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",,4,5,5,5,5,5,5,5,5
+Woman,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Living at home,Living at home,Kinesthetic (hands-on),4,4,5,2,2,4,3,5,3
+Man,Fourth Year,Yes,3.50 to 4.00,3.00 to 3.49,3.00 to 3.49,Living at home,Off-campus housing,Kinesthetic (hands-on),0,5,5,2,4,1,1,1,1
+Woman,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Off-campus housing,Off-campus housing,Visual,4,5,5,5,5,1,4,4,3
+Man,Fourth Year,No,3.00 to 3.49,3.00 to 3.49,3.00 to 3.49,Living at home,Living at home,Visual,3,5,4,3,5,4,5,5,5
+Man,Fourth Year,No,2.50 to 2.99,2.50 to 2.99,2.50 to 2.99,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Kinesthetic (hands-on),10,4,5,3,5,5,5,5,4
+Woman,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Kinesthetic (hands-on),3,5,5,3,3,4,4,3,3
+Man,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Kinesthetic (hands-on),3,5,5,2,3,1,5,3,1
+Man,Fourth Year,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)",Living at home,Reading and Writing,2,4,3,2,4,3,3,3,3
+Man,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Reading and Writing,2,4,5,4,5,5,5,5,5
+Woman,Third Year,No,3.50 to 4.00,3.00 to 3.49,3.00 to 3.49,Living at home,"On-campus housing (Dorms, Glen Mor, etc.)",Kinesthetic (hands-on),0,4,5,4,5,4,5,5,4
+Woman,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Living at home,Living at home,Kinesthetic (hands-on),5,4,5,2,4,4,5,5,4
+Woman,Fourth Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Kinesthetic (hands-on),3,4,5,1,3,4,4,4,3
+Woman,Fourth Year,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Living at home,Living at home,Kinesthetic (hands-on),8,5,5,2,3,1,3,2,1
+Woman,Third Year,No,3.50 to 4.00,3.00 to 3.49,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,3,5,5,3,5,3,4,3,2
+Woman,Fourth Year,No,3.00 to 3.49,3.00 to 3.49,3.00 to 3.49,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,5,5,5,4,,5,5,4,5
+Man,Fourth Year,No,3.00 to 3.49,3.00 to 3.49,3.00 to 3.49,Living at home,Living at home,Visual,2,5,3,3,4,2,3,3,2
+Woman,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,2,5,5,2,5,3,3,4,4
+Man,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Living at home,Living at home,Auditory,4,4,5,3,5,2,5,5,1
+Man,Fourth Year,No,3.00 to 3.49,3.00 to 3.49,3.00 to 3.49,Off-campus housing,Off-campus housing,Auditory,2,5,5,4,5,4,5,5,4
+Woman,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Off-campus housing,Off-campus housing,Kinesthetic (hands-on),2,4,5,4,3,1,4,4,3
+Woman,Third Year,No,3.50 to 4.00,3.00 to 3.49,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)",Living at home,Visual,5,5,5,2,4,4,5,4,4
+Woman,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,5,5,5,1,5,3,5,4,4
+Man,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.00 to 3.49,Off-campus housing,Off-campus housing,Kinesthetic (hands-on),3,5,5,5,5,4,4,5,4
+Man,Fourth Year,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Off-campus housing,Off-campus housing,Visual,2,5,5,2,2,1,1,3,1
+Man,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)",Living at home,Visual,0,5,5,4,4,1,1,2,2
+Man,Fourth Year,No,3.50 to 4.00,3.00 to 3.49,3.50 to 4.00,Off-campus housing,Off-campus housing,Auditory,5,5,5,5,5,4,5,5,5
+Man,Fifth Year or higher,Yes,3.50 to 4.00,3.00 to 3.49,3.00 to 3.49,Living at home,Living at home,Kinesthetic (hands-on),5,4,5,3,5,5,5,4,5
+Woman,Third Year,No,2.50 to 2.99,3.00 to 3.49,2.50 to 2.99,Off-campus housing,Off-campus housing,Visual,3,5,5,2,5,5,5,5,5
+Woman,Fourth Year,No,3.50 to 4.00,3.00 to 3.49,3.50 to 4.00,Off-campus housing,Off-campus housing,Visual,5,4,4,1,5,5,5,3,3
+Man,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,2,5,4,3,4,2,3,3,3
+Man,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Kinesthetic (hands-on),4,5,4,2,2,2,5,4,1
+Woman,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,3,5,5,5,5,5,3,3,3
+Man,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,2,5,5,4,3,4,5,3,2
+Man,Second Year,No,2.50 to 2.99,3.00 to 3.49,2.50 to 2.99,Living at home,Living at home,Visual,3,4,4,4,2,5,2,2,2
+Man,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,7,4,4,3,3,3,2,3,3
+Man,Fourth Year,Yes,3.00 to 3.49,3.00 to 3.49,1.50 to 1.99,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Reading and Writing,3,3,3,1,4,5,3,5,5
+Woman,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Living at home,Living at home,Reading and Writing,6,5,5,4,5,3,5,5,5
+Woman,Second Year,No,3.00 to 3.49,3.00 to 3.49,3.00 to 3.49,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,5,5,4,3,5,4,4,5,5
+Woman,Third Year,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,2,4,5,2,5,4,4,5,3
+Man,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Living at home,Living at home,Reading and Writing,1,5,1,1,5,1,1,3,2
+Man,Third Year,Yes,3.50 to 4.00,3.50 to 4.00,,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,2,5,5,3,5,5,5,4,4
+Man,Second Year,No,3.00 to 3.49,2.50 to 2.99,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,1,5,5,3,4,3,5,3,3
+Man,Second Year,No,3.50 to 4.00,3.00 to 3.49,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)",Living at home,Visual,24,5,5,4,4,5,5,5,3
+Woman,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Off-campus housing,Off-campus housing,Kinesthetic (hands-on),2,5,5,2,3,2,3,2,3
+Man,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Other,2,5,2,1,3,1,3,3,1
+Man,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Auditory,1,3,4,4,5,5,5,5,5
+Man,Third Year,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Off-campus housing,Off-campus housing,Visual,1,5,5,1,2,4,4,4,4
+Woman,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Reading and Writing,6,5,5,4,4,5,5,5,5
+Man,Graduate,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Off-campus housing,Off-campus housing,Other,5,5,5,5,5,5,5,5,5
+Man,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,2,5,5,2,5,5,5,5,4
+Man,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Off-campus housing,Off-campus housing,Visual,1,5,4,3,2,5,5,4,3
+Man,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)",Living at home,Kinesthetic (hands-on),23,5,5,5,4,5,5,5,4
+Man,Third Year,Yes,3.50 to 4.00,3.00 to 3.49,3.00 to 3.49,"On-campus housing (Dorms, Glen Mor, etc.)",Living at home,Kinesthetic (hands-on),4,5,5,5,5,5,4,4,4
+Man,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Kinesthetic (hands-on),2,4,4,2,5,4,5,4,5
+Man,First Year,No,3.50 to 4.00,3.50 to 4.00,,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Other,24,,,,,,,,
+Woman,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Reading and Writing,3,5,5,5,5,5,5,3,4
+Man,Third Year,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Off-campus housing,Off-campus housing,Other,0,4,5,2,4,1,1,1,1
+Man,Fourth Year,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Kinesthetic (hands-on),4,4,5,3,5,5,5,5,5
+Woman,Third Year,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Off-campus housing,Off-campus housing,Visual,4,5,5,3,5,2,1,1,1
+Man,Fourth Year,Yes,3.50 to 4.00,3.50 to 4.00,3.00 to 3.49,Living at home,Living at home,Reading and Writing,1,5,5,5,3,2,1,1,1
+Man,Second Year,No,3.00 to 3.49,3.00 to 3.49,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Kinesthetic (hands-on),24,4,4,1,5,3,5,5,1
+Woman,Third Year,No,3.00 to 3.49,3.00 to 3.49,3.00 to 3.49,Living at home,Living at home,Visual,4,5,5,3,3,2,3,3,3
+,,,,,,,,,,,,,,,,,
+Man,Third Year,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Kinesthetic (hands-on),9,4,4,3,3,3,3,3,2
+Woman,Third Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Living at home,Living at home,Visual,6,4,4,2,5,5,5,5,5
+Man,Third Year,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Off-campus housing,Off-campus housing,Kinesthetic (hands-on),1,4,5,5,5,5,5,5,5
+Man,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Living at home,Living at home,Kinesthetic (hands-on),2,5,5,2,4,2,5,5,3
+Man,Second Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Living at home,Living at home,Kinesthetic (hands-on),7,4,5,3,5,5,5,5,4
+Man,Fourth Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Living at home,"On-campus housing (Dorms, Glen Mor, etc.)",Visual,1,5,4,3,4,2,3,3,3
+Man,Fourth Year,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Off-campus housing,Off-campus housing,Auditory,1,5,5,5,5,2,4,3,2
+Man,Fourth Year,Yes,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,Off-campus housing,Off-campus housing,Other,2,5,5,5,4,3,4,4,3
+Man,Fourth Year,No,3.50 to 4.00,3.50 to 4.00,3.50 to 4.00,"On-campus housing (Dorms, Glen Mor, etc.)","On-campus housing (Dorms, Glen Mor, etc.)",Visual,4,5,5,4,4,4,4,4,4
+Man,Fifth Year or higher,Yes,3.00 to 3.49,3.00 to 3.49,3.00 to 3.49,Living at home,Living at home,Kinesthetic (hands-on),6,4,4,3,5,4,5,4,4
+Man,Fifth Year or higher,Yes,3.00 to 3.49,3.00 to 3.49,3.00 to 3.49,Living at home,Living at home,Kinesthetic (hands-on),0,4,5,3,4,1,4,4,3
