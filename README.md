@@ -1,5 +1,5 @@
 # Students-Choice-of-Learning
-DATA ANALYSIS PROJECT
+Data Analysis Project
 
 Description:
 
